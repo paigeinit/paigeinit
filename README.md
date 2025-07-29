@@ -20,7 +20,7 @@ I'm a data science & economics student, interested in machine learning, NLP, and
 ### Currently
 - 🌱 Studying natural language processing, econometrics, data ethics, and transformer architectures
 - 🔭 Working on mini projects to improve my programming skills and systems intuition
-- 📖 Reading *Things* by Georges Perec
+- 📖 Reading *A Man Asleep* by Georges Perec
 
 ### Stack (so far)
 - `Python`, `R`, `Java`
@@ -28,5 +28,8 @@ I'm a data science & economics student, interested in machine learning, NLP, and
 
 ### Projects
 - 🧬 GRU-based **anti-cancer peptide classifier**
+
+<!--
 - 🫁 ResNet50-based **pneumonia detection**
 - 📖 Word2Vec trained on a **Jane Austen corpus**
+-->
